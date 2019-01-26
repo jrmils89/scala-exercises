@@ -1,4 +1,4 @@
-package com.jessermills.Exercises
+package com.jessermills.exercises
 
 import collection.mutable.HashMap
 

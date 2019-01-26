@@ -1,15 +1,15 @@
 package com.jessermills
 
-import Exercises._
+import com.jessermills.exercises.PracticeProblems
 
-object Hello extends App {
+object Main extends App {
 
   val listOfWords = List[String](
     xs = "internationalization",
     "internationalization",
     "aaa",
     "aaa",
-    "bingBop",
+    "bing",
     "")
 
   PracticeProblems.transformWords(listOfWords)
